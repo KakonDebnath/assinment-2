@@ -445,9 +445,14 @@ table {
     }
     .goals__item {
         padding: 30px;
-        width: 50%;
+        width: 60%;
     }
-
+    .goals__item h3 {
+        font-size: 1.5rem;
+    }
+    .goals__item p {
+        font-size: 0.8rem;
+    }
     .our__sponsor__Section h3 {
         margin: 10px 0;
         text-align: center;
@@ -459,8 +464,8 @@ table {
 
     .sponsore img {
         filter: grayscale(0);
-        padding: 30px;
-        width: 30%;
+        padding: 20px;
+        width: 50%;
     }
 
     .contact__us__form {
@@ -476,9 +481,9 @@ table {
     .contact__us__form label,
     input {
         padding: 10px;
-        font-size: 16px;
-        border: 0;
-        width: 50%;
+        font-size: 14px;
+        border-radius: 10px;
+        width: 60%;
         margin-bottom: 10px;
     }
 
